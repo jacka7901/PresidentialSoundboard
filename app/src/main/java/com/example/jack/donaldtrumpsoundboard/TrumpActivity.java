@@ -6,10 +6,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.MenuInflater;
 import android.view.MenuItem;
-import android.view.View;
 import android.widget.Button;
 import android.view.Menu;
-import android.widget.PopupMenu;
 
 //???
 
@@ -35,8 +33,6 @@ public class TrumpActivity extends AppCompatActivity implements MediaPlayerCallb
     private Button button4;
     private Button button5;
     private MediaPlayer mp;
-    private Menu menu;
-    public MenuItem hillaryOp;
 
 
 
@@ -79,6 +75,8 @@ public class TrumpActivity extends AppCompatActivity implements MediaPlayerCallb
         button3 = (Button) findViewById(R.id.button3);
         button4 = (Button) findViewById(R.id.button4);
         button5 = (Button) findViewById(R.id.button5);
+
+
 
 
 

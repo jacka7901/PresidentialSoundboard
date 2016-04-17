@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DonaldTrumpSoundBoard.iml" filepath="$PROJECT_DIR$/DonaldTrumpSoundBoard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Presidential Sound Board.iml" filepath="$PROJECT_DIR$/Presidential Sound Board.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
